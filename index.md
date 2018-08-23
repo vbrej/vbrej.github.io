@@ -1,8 +1,11 @@
 ---
-layout: page
-title: UK Quizbowl
-tagline: This is a sexy working example
-description: Just learning things
+layout: archive
+permalink: /
+title: "Latest Posts"
 ---
 
-This is the simplest working template I could make work. Think it looks good tbh. Here's a useful website: [Github Pages](https://pages.github.com).
+<div class="tiles">
+{% for post in site.posts %}
+	{% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
