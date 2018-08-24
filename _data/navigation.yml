@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
+- title: Events
+  url: /events/
+  excerpt: "Calendar of upcoming quiz events"
+  image:
+
+- title: Resources
+  url: /resources/
+  excerpt:
+  image:
+
+- title: About us
+  url: /about/
+  excerpt:
+  image:
+
+- title: Contact
+  url: /contact/
   excerpt:
   image:
