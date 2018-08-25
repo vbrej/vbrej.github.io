@@ -1,9 +1,9 @@
 # Site wide configuration
 
 title: "UK Quizbowl"
-description: "The central resource for academic buzzer quzzing in the UK."
+description: "The central resource for academic buzzer quzzing in the UK"
 logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: 400x250.gif # 400x250 px default teaser image used in image archive grid
 locale: en
 url:
 feed:

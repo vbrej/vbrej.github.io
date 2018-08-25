@@ -1,10 +1,8 @@
 ---
 layout: article
-permalink: /events/
-title: "Events"
+permalink: /intro/
+title: "Introduction to academic buzzer quiz"
 ---
-
-Calendar of quzzing events ...
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tristique magna. Vivamus vehicula eros ut tortor aliquet, id ultrices nibh viverra. Phasellus porttitor eros vitae turpis bibendum mattis. Aenean a auctor dui. Quisque ullamcorper lobortis neque, a volutpat felis gravida eu. Suspendisse faucibus euismod congue. Proin et tristique nunc. Mauris ut sagittis purus. Fusce et eros enim. Donec fermentum quis magna id ullamcorper. Integer porttitor elit ligula, in vestibulum tellus auctor vel. Aliquam venenatis erat velit, ac faucibus justo fringilla vitae. Morbi nec quam quis mauris placerat ultricies in ut tortor. Maecenas eleifend, felis eu bibendum fringilla, nulla ex fermentum urna, vel ultrices odio dui eu libero.
 

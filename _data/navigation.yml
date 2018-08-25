@@ -1,5 +1,15 @@
 # Site navigation links
 
+- title: Blog
+  url: /blog/
+  excerpt: "News and articles from the quiz world"
+  image:
+
+- title: Introduction
+  url: /intro/
+  excerpt: "Your starting point in buzzer quiz"
+  image:
+
 - title: Events
   url: /events/
   excerpt: "Calendar of upcoming quiz events"
@@ -7,15 +17,15 @@
 
 - title: Resources
   url: /resources/
-  excerpt:
+  excerpt: "Quiz societies in the UK and other useful links"
   image:
 
 - title: About us
   url: /about/
-  excerpt:
+  excerpt: "About the organisation"
   image:
 
 - title: Contact
   url: /contact/
-  excerpt:
+  excerpt: "Our e-mail and social media contacts"
   image:
