@@ -6,6 +6,15 @@ title: "Events"
 
 Calendar of quzzing events ...
 
+<div class="span3">
+	<h3>List of Events</h3>
+<div id="upcoming">More upcoming events</div><!--/span-->
+</div>
+<div class="span9">
+	<h3>Calendar of Upcoming Events</h3>
+	<iframe src="https://calendar.google.com/calendar/embed?src=quizbowluk%40gmail.com&ctz=Europe%2FLondon" style=" border-width:0 " width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+</div><!--/span-->
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tristique magna. Vivamus vehicula eros ut tortor aliquet, id ultrices nibh viverra. Phasellus porttitor eros vitae turpis bibendum mattis. Aenean a auctor dui. Quisque ullamcorper lobortis neque, a volutpat felis gravida eu. Suspendisse faucibus euismod congue. Proin et tristique nunc. Mauris ut sagittis purus. Fusce et eros enim. Donec fermentum quis magna id ullamcorper. Integer porttitor elit ligula, in vestibulum tellus auctor vel. Aliquam venenatis erat velit, ac faucibus justo fringilla vitae. Morbi nec quam quis mauris placerat ultricies in ut tortor. Maecenas eleifend, felis eu bibendum fringilla, nulla ex fermentum urna, vel ultrices odio dui eu libero.
 
 Suspendisse mattis interdum ante. Ut ultrices ac nulla eget consectetur. Quisque suscipit, mauris sit amet malesuada ullamcorper, libero magna eleifend tortor, eget varius est turpis quis libero. Duis accumsan bibendum mollis. Cras at convallis urna. Phasellus porta turpis faucibus odio finibus, non vehicula risus varius. Maecenas tincidunt tincidunt lacus, et commodo ipsum placerat in. Aliquam ornare est in dui viverra, eget feugiat tortor rhoncus. Suspendisse non lacinia leo, non ultricies nisl. Praesent aliquet condimentum dolor et placerat. Ut eu libero nisl. Aliquam tempus vulputate varius. Phasellus malesuada leo nec est rhoncus, sed sagittis nulla convallis.
