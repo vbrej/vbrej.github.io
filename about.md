@@ -1,14 +1,30 @@
 ---
-layout: article
+layout: media
 permalink: /about/
 title: "About us"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tristique magna. Vivamus vehicula eros ut tortor aliquet, id ultrices nibh viverra. Phasellus porttitor eros vitae turpis bibendum mattis. Aenean a auctor dui. Quisque ullamcorper lobortis neque, a volutpat felis gravida eu. Suspendisse faucibus euismod congue. Proin et tristique nunc. Mauris ut sagittis purus. Fusce et eros enim. Donec fermentum quis magna id ullamcorper. Integer porttitor elit ligula, in vestibulum tellus auctor vel. Aliquam venenatis erat velit, ac faucibus justo fringilla vitae. Morbi nec quam quis mauris placerat ultricies in ut tortor. Maecenas eleifend, felis eu bibendum fringilla, nulla ex fermentum urna, vel ultrices odio dui eu libero.
 
-Suspendisse mattis interdum ante. Ut ultrices ac nulla eget consectetur. Quisque suscipit, mauris sit amet malesuada ullamcorper, libero magna eleifend tortor, eget varius est turpis quis libero. Duis accumsan bibendum mollis. Cras at convallis urna. Phasellus porta turpis faucibus odio finibus, non vehicula risus varius. Maecenas tincidunt tincidunt lacus, et commodo ipsum placerat in. Aliquam ornare est in dui viverra, eget feugiat tortor rhoncus. Suspendisse non lacinia leo, non ultricies nisl. Praesent aliquet condimentum dolor et placerat. Ut eu libero nisl. Aliquam tempus vulputate varius. Phasellus malesuada leo nec est rhoncus, sed sagittis nulla convallis.
+**UK Quizbowl** was set up in 2018 as the official governing body of the fast growing game of quizbowl in the UK. Quizbowl has been around for a number of years in this country and has been increasing in popularity, partly as a result of the success of people who play quizbowl on the TV show *University Challenge*. There was clearly a need to set up an organisation to help increase participation further. Our main aims as an organisation are to increase the number of people playing quizbowl, ensure the safety and happiness of competitors, and foster diversity within the game.  
 
-Maecenas ullamcorper ac nunc eu efficitur. Maecenas lobortis fringilla orci eu lacinia. Sed accumsan viverra lacinia. Integer hendrerit et dolor at posuere. Donec at accumsan elit, ut aliquam mauris. Vestibulum dignissim nec lectus scelerisque tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eu odio luctus, mattis est non, suscipit eros. In ac placerat ex, nec convallis erat. Donec eu libero ac nulla placerat placerat. Vestibulum nec nisl nec enim hendrerit varius. Aliquam at pretium nulla. Phasellus finibus, tortor mattis facilisis imperdiet, est enim tristique mauris, id consequat sapien nisi et felis.
+We will help run a series of quizbowl tournament throughout the year, which are aimed at players ranging from complete novices to veterans who have been playing for years. More details can be found on the [events page](https://quizbowl.co.uk/events/). 
 
-Nulla rhoncus ut velit in scelerisque. Quisque quis augue at ante tincidunt efficitur. Vestibulum euismod lacus vel sapien hendrerit posuere. Ut feugiat nibh eu pharetra rhoncus. Curabitur lobortis nisi nulla, ut tincidunt dui elementum non. Phasellus pellentesque ullamcorper nisl a convallis. Morbi malesuada, arcu et porttitor laoreet, ligula quam luctus felis, ut auctor velit nulla vitae mauris. Curabitur porttitor neque sit amet neque consectetur laoreet. Aenean mollis lobortis vestibulum. Maecenas tortor orci, cursus et est ac, aliquam placerat leo. Donec placerat orci non velit hendrerit, a volutpat nibh dictum. Vestibulum dignissim ut orci at tincidunt. Morbi ac egestas sapien. Vivamus a ullamcorper urna. Fusce justo arcu, ultrices eget nunc gravida, cursus sollicitudin justo. Morbi pellentesque metus quis nibh tincidunt consequat.
+UK Quizbowl is also very keen to help interested students start playing quizbowl for the first time. You will find a large amount of resources on this website, including links to past questions and advice on how to study by current top players. If you are interested in setting up a quiz society at your university but do not know where to start or just want to know more about upcoming tournaments, please feel free to contact us at <quizbowluk@gmail.com>. 
 
-Maecenas a volutpat lectus, convallis rhoncus risus. Aenean ultricies gravida ex, quis suscipit neque auctor varius. Fusce fringilla venenatis metus eu condimentum. Integer felis libero, malesuada sit amet mi vel, pretium varius augue. Curabitur mollis nisi et tortor blandit maximus. Mauris ut orci ac ipsum bibendum tristique. Vivamus ullamcorper mauris mattis odio molestie, nec pretium mauris laoreet. In id scelerisque eros. Suspendisse in metus ipsum. Morbi imperdiet velit posuere sodales lacinia. Morbi ut accumsan nulla. Vivamus elementum tellus nec placerat dictum. Quisque ac ligula varius, scelerisque sem non, volutpat ante.
+One thing to point out: UK Quizbowl is currently just starting out, so more material will be added to this website over the course of the 2018-2019 season, including detailed results and analysis of tournaments as they are played throughout the year. We are currently consulting on the important issues of safeguarding and diversity, and will update the website accordingly when we have policies in place in these two areas. 
+
+> <cite>George Charlson, *President of UK Quizbowl in 2018-19 season*.</cite>
+
+#### The committee
+
+Elections for committee positions will take place soon. Currently two positions have been filled.
+
++ **President:** George Charlson, Oxford University [insert picture of me looking as normal as possible here]
+
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/georgec.jpg" alt="">
+
+	*George started playing quizbowl in 2009 at Oxford and has been participating regularly in quiz events since 2014. He is currently doing a DPhil in Economics at Oxford, where he is currently squad captain for the Oxford University Quiz Society.*
+
++ **Treasurer:**
+	Daoud Jackson, no affiliation [insert picture of Daoud] [text for Daoud to write]
+
++ ...
