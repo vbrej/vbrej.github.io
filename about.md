@@ -2,6 +2,8 @@
 layout: media
 permalink: /about/
 title: "About us"
+author_profile: false
+share: true
 ---
 
 **UK Quizbowl** was set up in 2018 as the official governing body of the fast growing game of quizbowl in the UK. Quizbowl has been around for a number of years in this country and has been increasing in popularity, partly as a result of the success of people who play quizbowl on the TV show *University Challenge*. There was clearly a need to set up an organisation to help increase participation further. Our main aims as an organisation are to increase the number of people playing quizbowl, ensure the safety and happiness of competitors, and foster diversity within the game.  
@@ -14,6 +16,7 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
 
 > <cite>George Charlson, *President of UK Quizbowl in 2018-19 season*.</cite>
 
+<!--
 #### The committee
 
 Elections for committee positions will take place soon. Currently two positions have been filled.
@@ -28,3 +31,4 @@ Elections for committee positions will take place soon. Currently two positions 
 	Daoud Jackson, no affiliation [insert picture of Daoud] [text for Daoud to write]
 
 + ...
+-->
