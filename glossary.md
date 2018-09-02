@@ -16,7 +16,8 @@ Over the years, the quizbowl community has developed its own somewhat specific j
 **Briticise:** The act of getting an American question set and replacing/editing questions to make it more suitable to a British audience. This usually involves removing content that is much harder in America than in the UK (such as American sports and history), and making questions on British history and current events harder.
 
 **BSQC:** British Student Quizbowl Championship. The most prestigious collegiate tournament of the year, with the largest field.
-Cap: The number of teams which can play in a given tournament: constraints on rooms and number of people willing to moderate may lead to small field caps. The largest UK tournament has a field cap of 24 teams.
+
+**Cap:** The number of teams which can play in a given tournament: constraints on rooms and number of people willing to moderate may lead to small field caps. The largest UK tournament has a field cap of 24 teams.
 
 **Collegiate:** A tournament which is only open to teams comprised of current university students.
 
@@ -25,7 +26,8 @@ Cap: The number of teams which can play in a given tournament: constraints on ro
 **Grail:** The act of getting all of the tossups in a match. This happens very, very rarely.
 
 **Housewrite:** A tournament that is hosted at a university, with questions mostly written by members (and alumni) of that university. The two largest housewrites in the UK are Oxford Open and Cambridge Open.
-Mirror: A tournament that is held on questions written by people other than the moderators of the tournament. Most British quizbowl tournaments are written in America and mirrored in the UK.
+
+**Mirror:** A tournament that is held on questions written by people other than the moderators of the tournament. Most British quizbowl tournaments are written in America and mirrored in the UK.
 
 **Mod:** The official in charge of reading questions and interpreting answers from the teams. Mods will usually score as well, although larger tournaments may have separate scorers. Mods will decide which team has buzzes, whether answers are correct and whether to prompt answers.
 
@@ -42,10 +44,12 @@ Mirror: A tournament that is held on questions written by people other than the 
 **PPG:** Points per game; the number of points you have earned through buzzing divided by the number of games you have played.
 
 **Prompt:** An answer to a question that is not specific enough, but not incorrect. For example, a team answering ‘King Henry’ to a question about Henry VIII would be prompted, but a team saying ‘Henry III’ would not.
-Pyramidal: One of the core principles of quizbowl, questions being pyramidal means that tossups should start with relatively obscure clues that reward in-depth knowledge of the topic, and then become progressively easier until the final line, the ‘giveaway’, which most teams are likely to know.
+
+**Pyramidal:** One of the core principles of quizbowl, questions being pyramidal means that tossups should start with relatively obscure clues that reward in-depth knowledge of the topic, and then become progressively easier until the final line, the ‘giveaway’, which most teams are likely to know.
 
 **Set:** The collection of questions which each tournament is played on. Each packet within a set will comply with that tournament’s distribution.
-Side tournament: A tournament, usually held the day after a collegiate or open tournament, with questions on one specific area of the distribution. Last year, side tournaments were held about films, sports, history, visual arts, literature and classical music, but this can vary from year to year.
+
+**Side tournament:** A tournament, usually held the day after a collegiate or open tournament, with questions on one specific area of the distribution. Last year, side tournaments were held about films, sports, history, visual arts, literature and classical music, but this can vary from year to year.
 
 **Tossup:** Question on which teams can buzz on to earn points, similar to starters on University Challenge; correctly answering a tossup will also give a team a chance to answer a set of bonuses. Tossups are significantly longer than University Challenge starters: most are between five and ten lines long, and are pyramidal. There are no tossups that involve looking at pictures or listening to music, although some may describe artworks or musical pieces.
 
@@ -53,4 +57,4 @@ Side tournament: A tournament, usually held the day after a collegiate or open t
 
 **Trash:** What quizbowl calls questions about films, sport, television, popular music, video games or other non-academic content. Trash is not a derogatory term in quizbowl!
 
-**Vulch:** Because questions are pyramidal, and tossups become easier towards the end of the question, teams will usually wait until the final sentence of a tossup before buzzing after the other team has negged; this is called vulching.
+**Vulch:** Because questions are pyramidal, and tossups become easier towards the end of the question, teams will usually wait until the final sentence of a tossup before buzzing after the other team has negged; not waiting until the end of the tossup in such situations is called vulching.

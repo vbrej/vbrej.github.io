@@ -1,10 +1,11 @@
 ---
 layout: article
-title: "British Student Quiz Championship 2018: a report"
+title: "British Student Quiz Championship 2018: report"
 excerpt: "We review the 2018 BSQC: Cambridge A emerge victorious among some strong debuts across the field."
 categories: articles
 share: true
 ads: false
+author_profile: false
 image:
   feature: bsqc-1600x1000.jpg
   teaser: bsqc-400x250.jpg
@@ -32,6 +33,6 @@ In a reverse of the top bracket round robin results from the previous two years,
 An enormous thanks is due once again to Edmund Dickinson for adapting the NAQT Sectional Championship Tournament set and to his team of Briticizers and writers (Afham Raoof, Alex Bubb, Ben Salter, Bob De Caux, Charlie Clegg, David Knapp, David Stainer, Ewan MacAulay, Hugh Bennett, Hugh Binnie, Ian Bayley, Jonathan Elliott, Joey Goldman, Kyle Haddad-Fonda, Luke Pitcher, Max Espensen, Michael Levy, Peter Sloman, Sam Swift, Sasha Taromsari, Stuart McLachlan, Thomas Grinyer, Tom Speller)  and moderators (Hugh Bennett, Sean Blanchflower, Francis Clark-Murray, Charlie Clegg, George Corfield, Chris Ducklin, Jonathan Elliott, Max Espensen, Joey Goldman, Emma Laslett, Matt Loxham, Ewan MacAulay, Katie McGettigan, Afham Raoof, Ben Salter, Tom Speller, Simon Spiro) for a largely faultless tournament. The organization of these events takes a prodigious amount of effort and the commitment of so many people to give up spare minutes and Saturday afternoons is what keeps this tournament on its feet.
 
 #### Statistics
-Links to the stats are the following: [prelims](http://www.hsquizbowl.org/db/tournaments/5089/stats/prelims/); [playoffs (with contributing morning games)](http://www.hsquizbowl.org/…/tournaments/5089/stats/playoffs/); [all games]([http://www.hsquizbowl.org/…/tournamen…/5089/stats/all_games/).
+Links to the statistics are the following: [prelims](http://www.hsquizbowl.org/db/tournaments/5089/stats/prelims/); [playoffs (with contributing morning games)](http://www.hsquizbowl.org/…/tournaments/5089/stats/playoffs/); [all games]([http://www.hsquizbowl.org/…/tournamen…/5089/stats/all_games/).
 
 The questions used are not publicly available, but if you would like information on how to purchase them then please email <quizbowluk@gmail.com>. 

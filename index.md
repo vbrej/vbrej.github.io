@@ -2,6 +2,7 @@
 layout: article
 permalink: /
 share: false
+logo: logo.png
 ---
 
 Welcome to the homepage of **UK Quizbowl** --- the organisation for all things to do with student buzzer quizzing in the UK.
