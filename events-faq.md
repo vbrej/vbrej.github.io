@@ -6,11 +6,11 @@ author_profile: false
 share: true
 ---
 
-Getting involved with quizbowl can seem complicated, so we have prepared this list of frequently asked questions to help anyone who would like to join the community. Additional information can be found on our [resources page]({{ site.url }}{{ site.baseurl }}/resources/), but also do not hesitate to contact us at <quizbowluk@gmail.com> or on [Facebook](https://www.facebook.com/quizbowluk/) if there are any other questions.
+Getting involved with quizbowl can seem complicated, so we have prepared this list of frequently asked questions to help anyone who would like to join the community. Additional information can be found on our [resources page]({{ site.url }}{{ site.baseurl }}/resources/), but also do not hesitate to contact us at <contact@quizbowl.co.uk> or on [Facebook](https://www.facebook.com/quizbowluk/) if there are any other questions.
 
 > > <p style="font-weight:bold">How do I get involved?</p>
 > 
-> UK Quizbowl's activities are focused on supporting university quiz societies and organising quiz tournaments. If your university has a quiz society, then that is the best place to start, and they should be able to help you attend tournament. Tournaments are advertised on this website, and associated social media accounts, as well as by the societies which host them.
+> UK Quizbowl's activities are focused on supporting university quiz societies and organising quiz tournaments. If your university has a <a href="{{ site.url }}{{ site.baseurl }}/resources/#student-quiz-societies">quiz society</a>, then that is the best place to start, and they should be able to help you attend tournament. Tournaments are advertised on this website, and associated social media accounts, as well as by the societies which host them.
 
 > > <p style="font-weight:bold">When and where are this term’s tournaments?</p>
 > 
@@ -51,7 +51,7 @@ Getting involved with quizbowl can seem complicated, so we have prepared this li
 >
 > Tournament announcements should give an idea of the difficulty of the questions, but this is, naturally, quite subjective.  
 >
-> As a rule of thumb, an example set of easier questions (from 2017’s British Novice set) can be found <a href="{{ site.url }}{{ site.baseurl }}/assets/novice2017.pdf" alt="">here</a>. Harder questions (from 2017’s Oxford Open Tournament) can be found <a href="{{ site.url }}{{ site.baseurl }}/assets/oot2017.pdf" alt="">here</a>. Many more questions can be found on the [quizbowl packet archive](http://quizbowlpackets.com/).
+> As a rule of thumb, an example set of easier questions (from 2017’s British Novice set) can be found <a href="{{ site.url }}{{ site.baseurl }}/assets/novice2017.pdf" alt="">here</a>. Harder questions (from 2017’s Oxford Open Tournament) can be found <a href="{{ site.url }}{{ site.baseurl }}/assets/oot2017.pdf" alt="">here</a>. Much more information about questions can be found in our <a href="{{ site.url }}{{ site.baseurl }}/intro/" alt="">introduction to quizbowl</a> and on the list of <a href="{{ site.url }}{{ site.baseurl }}/resources/" alt="">quizbowl resources</a>.
 
 > > <p style="font-weight:bold">Where do the questions come from?</p>
 >
@@ -63,7 +63,7 @@ Getting involved with quizbowl can seem complicated, so we have prepared this li
 
 > > <p style="font-weight:bold">Will this help me get on (or win?) University Challenge?</p>
 >
-> Probably, yes. But we make no guarantees... <span style="color:red">[See our post on University Challenge success]</span>.
+> Probably, yes. Many quizbowl enthusiasts have found success on the show, but we can make no guarantees...
 
 > > <p style="font-weight:bold">I am not a student. Can I get involved?</p>
 >

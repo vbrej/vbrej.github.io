@@ -6,23 +6,46 @@ author_profile: false
 toc: true
 ---
 
-This is a list of some useful web links to various quiz resources.
+There exists a vast array of quizbowl resources on the internet, and whilst most of these are made to cater to Americans, they are still very useful for the British audience. Getting better at quizbowl tournaments requires a mix of practice and effort. Alongside playing actual games, some of these resources are helpful ways to get used to what comes up in quizbowl questions and to get better at the game.
 
 {% include toc.html %}
 
 ## Student quiz societies
 
-<span style="color: red">[Uni quiz society pages go here]</span>
+Lots of UK quiz societies already have websites. Several of these websites are a little rudimentary but get in touch with the societies through email or Facebook for more information on events they are putting on.
+
+**Cambridge:** <http://quizsoc.soc.srcf.net>
+
+**Cardiff:** <https://www.cardiffstudents.com/activities/society/quiz>
+
+**Edinburgh:** <https://www.eusa.ed.ac.uk/activities/societies/society/quizsoc>
+
+**Glasgow:** <https://www.facebook.com/guquizsociety>
+
+**Imperial:** <https://www.imperialcollegeunion.org/activities/a-to-z/quiz>
+
+**LSE:** <https://www.lsesu.com/organisation/quizclub>
+
+**Oxford:** <http://users.ox.ac.uk/~quiz>
+
+**Queen’s, Belfast:** <https://www.facebook.com/QueensQuizSociety>
+
+**Southampton:** <https://www.susu.org/groups/university-of-southampton-quiz-society>
+
+**Warwick:** <https://www.warwicksu.com/societies/quizsoc>
 
 ## Quizbowl questions
 
-[**Packet Archive**](http://collegiate.quizbowlpackets.com): This is one of the key resources --- a website with thousands of quizbowl packets of all kinds stretching back years. It’s important to keep tabs on their difficulty --- it contains things all the way from American middle-school questions (fairly quick and easy) up to extremely difficult open tournaments with horrendously obscure answerlines, as well as a number of specialist subject packets. Check here <span style="color: red">[Link to section of website with difficulty guide]</span> to see which difficulties and tournaments might be suitable for you and your team.
+[**Packet Archive**](http://collegiate.quizbowlpackets.com): This is one of the key resources --- a website with thousands of quizbowl packets of all kinds stretching back years. It’s important to keep tabs on their difficulty --- it contains things all the way from American middle-school questions (fairly quick and easy) up to extremely difficult open tournaments with horrendously obscure answerlines, as well as a number of specialist subject packets. Navigating all of these links without prior knowledge is a bit daunting, but if you would like some suggestions for tournaments to start out with, try these: [2017 Early Fall Tournament](http://collegiate.quizbowlpackets.com/2048/), [2017 ACF Fall](http://collegiate.quizbowlpackets.com/2040/), [2018 PACE](http://quizbowlpackets.com/2155/).
 
-One can also download ‘trash’ – pop culture – packets, which tend to be of wildly varying quality but are often good fun. 
+One can also download ‘trash’ – pop culture – packets, which tend to be of wildly varying quality, but are often good fun. Most of these are American but you might want to have a look at [Lowbrow Oxford Open 2015](http://trash.quizbowlpackets.com/1679/).
 
 [**QuizDB**](http://www.quizdb.org): This is essentially a database of loads of individual quizbowl questions, categorised by tournament, difficulty, category and subcategory. For instance, say you want to read some easy ‘college-level’ questions about sculpture, or some challenging questions about chemistry --- just click the relevant sections of the drop-down menus and you can read through to your heart’s content.
 
 This site is also useful when writing questions, either to check what difficulty levels an answer has been asked at, or to find clues for tossups (doing this excessively is somewhat frowned upon, however). 
+
+[**NAQT You Gotta Know**](https://www.naqt.com/you-gotta-know/): NAQT is an American company which produces a lot of quizbowl questions. One of the best features on their website are these short guides which go through and explain lists of topics which come up frequently in quizbowl tournaments.
+
 
 ## Online quizbowl
 
@@ -35,3 +58,5 @@ This site is also useful when writing questions, either to check what difficulty
 ## Statistics
 
 [**HSQuizbowl Stats**](http://hsquizbowl.org/db/): After almost all tournaments, the stats from the day will be posted on this site. The main results page will give the main leaderboard of the teams, though in other sections one can view an individual player’s performance or broken-down details for a whole team. Some of the numbers can be a bit difficult to get one’s head around – the key individual one is usually said to be PPG, or ‘(average) points per game’, counting only tossups. As a team, the ‘PPB’, or ‘(average) points per bonus’, is often the most highly regarded. Of course, worrying about this kind of thing is really nowhere near necessary. 
+
+[**HDWhite**](http://hdwhite.org/qb/stats/): This is a tool which allows you to search through the database of stats to find results for particular names of teams. 

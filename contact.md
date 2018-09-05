@@ -6,6 +6,6 @@ title: "Contact us"
 
 Getting in touch with us:
 
-+ **Email**: <quizbowluk@gmail.com>
++ **Email**: <contact@quizbowl.co.uk>
 + **Facebook**: <https://www.facebook.com/quizbowluk/>
 + **Twitter**: <https://twitter.com/BritishQuizbowl>

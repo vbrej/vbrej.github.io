@@ -13,7 +13,7 @@ image:
 
 **Links to statistics for the tournament are available at the [bottom of this post](#statistics).**
 
-*If you are interested in attending a future version of this tournament please get in touch through email at <quizbowluk@gmail.com> or through Facebook or Twitter.*
+*If you are interested in attending a future version of this tournament please get in touch through email at <contact@quizbowl.co.uk> or through Facebook or Twitter.*
 
 The 2018 edition of the British Student Quiz Championship was held at Imperial College, London, on the 5<sup>th</sup> May and the tournament continues to go from strength to strength. Amongst the scenic surroundings of Albertopolis and the UK headquarters of the Church of Latter Day Saints, a huge field of 22 teams put their fingers on the buttons for a scintillating day of quiz.   Cambridge A emerged victorious after a hotly contested day of quiz but the standard of the field across the board suggests that they are unlikely to be beginning an era of the sort which Oxford had established over the past decade.
  
@@ -35,4 +35,4 @@ An enormous thanks is due once again to Edmund Dickinson for adapting the NAQT S
 #### Statistics
 Links to the statistics are the following: [prelims](http://www.hsquizbowl.org/db/tournaments/5089/stats/prelims/); [playoffs (with contributing morning games)](http://www.hsquizbowl.org/…/tournaments/5089/stats/playoffs/); [all games]([http://www.hsquizbowl.org/…/tournamen…/5089/stats/all_games/).
 
-The questions used are not publicly available, but if you would like information on how to purchase them then please email <quizbowluk@gmail.com>. 
+The questions used are not publicly available, but if you would like information on how to purchase them then please email <contact@quizbowl.co.uk>. 

@@ -7,7 +7,7 @@ share: true
 toc: true
 ---
 
-The following is a very quick introduction to the game of quizbowl --- a type of buzzer quiz focussing on academic knowledge.
+The following is a very quick introduction to the game of quizbowl --- a type of buzzer quiz focusing on academic knowledge.
 
 {% include toc.html %}
 
@@ -23,7 +23,9 @@ Bonus questions in quizbowl are very similar to those in *University Challenge*,
 
 ## Quizbowl and *University Challenge*
 
-Quizbowl is a sibling of *University Challenge*: they both developed from an American radio and TV show called *College Bowl*, which began in the 50's. <span style="color: red">[link to history of Quizbowl here?]</span> *University Challenge* is focused on being an entertaining TV show, while quizbowl aims to produce the fairest possible competition between teams. Quizbowl players have an outstanding record of success on the show in recent years <span style="color: red">[link to UC page]</span>
+*For a deeper look into quizbowl history in the UK, see [this page]({{ site.url }}{{ site.baseurl }}/history/).*
+
+Quizbowl is a sibling of *University Challenge*: they both developed from an American radio and TV show called *College Bowl*, which began in the 1950s. *University Challenge* is focused on being an entertaining TV show, while quizbowl aims to produce the fairest possible competition between teams. Nevertheless, quizbowl players have an outstanding record of success on the show in recent years.
 
 ## Topic distribution
 
@@ -42,7 +44,7 @@ Quizbowl matches consist of either 20 or 24 cycles of a tossup followed by a bon
  
 [^1]: These are often collated all together in discussions as RMPSS.
 
-The above list is not fixed: some tournaments reduce the amount of "academic" content in favour of more popular culture, some will have categories such as Geography or Current Events, and some smaller tournaments (known as side events, usually played after a main academic tournament) focus on a single subject. Recent side events played in the UK include a music tournament written using snippets of audio rather than written questions, a tournament all about food (both gourmet and fast food) and a tournament all about geography. <span style="color: red">Links here?</span>
+The above list is not fixed: some tournaments reduce the amount of "academic" content in favour of more popular culture, some will have categories such as Geography or Current Events, and some smaller tournaments (known as side events, usually played after a main academic tournament) focus on a single subject. Recent side events played in the UK include a music tournament written using snippets of audio rather than written questions, a tournament [all about food](http://trash.quizbowlpackets.com/2067/) (both gourmet and fast food) and a tournament [all about geography](http://collegiate.quizbowlpackets.com/2015/).
 
 ## Sample questions
 
@@ -51,8 +53,8 @@ All the above is best illustrated with some examples, so here is a tossup and bo
 #### Tossup
 
 > <p style="font-size: 18px">
-	<span style="font-weight: bold">This person’s power was only secured with victory at the battle of Val-es-Dunes. One of this person’s main advisors was their half-brother, Odo, and they later married Matilda of Flanders. This person’s eldest surviving son was Robert Curthose, who only succeeded in part of this person’s domains. This person launched the (*)</span> Harrying of the North and commissioned the Domesday Book after claiming the English throne following the death of Edward the Confessor. For ten points, name this English king who came to power after defeating Harold II at Hastings. </p>
-> <p style="font-size: 18px">ANSWER: <span style="font-weight: bold; text-decoration: underline;">William the Conqueror</span> (or <span style="font-weight: bold; text-decoration: underline;">William I</span> of England or <span style="font-weight: bold; text-decoration: underline;">William the Bastard</span> or <span style="font-weight: bold; text-decoration: underline;">William II of Normandy</span>; prompt on “William”; do not accept or prompt on "William II")</p>  
+	<span style="font-weight: bold">A relative of this ruler was put on trial for stealing churchlands from Lafranc, and this man summoned his nobles and made them swear loyalty in the Oath of Salisbury.  This successor to Edgar Aetheling wrote a letter to Lafranc ordering that his half-brother Odo be freed from jail. This king ordered for a destructive campaign to gain control of Northumbria in his (*)</span> Harrying of the North, and he ordered for the compilation of a written record of England, the Domesday Book. This king led the Norman conquest of England, and his most famous victory is depicted on the Bayeux Tapestry. For ten points, name this English king who defeated Harold Godwinson at the Battle of Hastings.</p>
+> <p style="font-size: 18px">ANSWER: <span style="font-weight: bold; text-decoration: underline;">William the Conqueror</span> (or <span style="font-weight: bold; text-decoration: underline;">William I</span> of England or <span style="font-weight: bold; text-decoration: underline;">William the Bastard</span> or <span style="font-weight: bold; text-decoration: underline;">William II of Normandy</span>; prompt on "William"; do not accept or prompt on "William II")</p>  
 
 The above example shows how quizbowl tossups are essentially a collection of facts about the "**answerline**", which ideally are arranged from most obscure to easiest. This arrangement of clues is "**pyramidality**", which aims to reward deeper knowledge with an earlier buzz. The mark **(\*)** is known as the **powermark** — i.e. buzzing in before the reader has begun the word “Harrying” with the correct answer will earn you 15 points rather than 10. There are also quite a few acceptable answers, since William the Conqueror was known by a lot of names.
 
@@ -62,16 +64,18 @@ Additionally, an answer of "William" is not specific enough, since there have so
 
 #### Bonus
 
-> <p style="font-size: 18px">For 10 points each — answer the following about art museums in Continental Europe: <br /> <br />
-[10] This Madrid art gallery contains such works as <span style="font-weight: italic">The Garden of Earthly Delights</span> by Hieronymus Bosch and <span style="font-weight: italic">Las Meninas</span> by Diego Velazquez. <br />
-ANSWER: Museo del <span style="font-weight: bold; text-decoration: underline;">Prado</span> <br /> <br />
-[10] A glass pyramid designed by I. M. Pei can be found at this other art museum in Paris, which houses the <span style="font-weight: italic">Mona Lisa</span>. <br />
-ANSWER: <span style="font-weight: bold; text-decoration: underline;">Louvre</span> Museum [or Musée du Louvre] <br /> <br />
-[10] This other art gallery in Madrid, named for the wife of Juan Carlos I and dedicated to 20th century art, notably houses Picasso’s <span style="font-weight: italic">Guernica</span>. <br />
-ANSWER: Museo Nacional Centro de Arte Reina <span style="font-weight: bold; text-decoration: underline;">Sofía</span> [or Museo Reina Sofía, or just The Sofía]</p>
+> <p style="font-size: 18px">The Taniyama-Shimura conjecture was cited in the proof of this theorem as a link between elliptic curves and modular forms. For 10 point each: <br /> <br />
+[10] Name this theorem proved by Andrew Wiles. It states that no three positive integers a, b, and c can satisfy the equation "a-to-the-n plus b-to-the-n equals c-to-the-n" for integer values of n greater than two. <br />
+ANSWER: <span style="font-weight: bold; text-decoration: underline;">Fermat's last theorem</span> [prompt on "Fermat's conjecture"; prompt on partial answer] <br /> <br />
+[10] Fermat is the namesake of a type of these numbers, whose representatives take the form "two-to-the-two-to-the-n plus one." These are numbers whose only integer divisors are themselves and one. <br />
+ANSWER: <span style="font-weight: bold; text-decoration: underline;">primes</span> [or <span style="font-weight: bold; text-decoration: underline;">prime numbers</span>] <br /> <br />
+[10] These numbers can be generated by first selecting a seed between one and one less than a Fermat prime P, and multiplying that seed by a number that is a primitive root modulo P. <br />
+ANSWER: <span style="font-weight: bold; text-decoration: underline;">pseudorandom</span> numbers
 
-A correct answer on the William the Conqueror tossup, then, would reward a team with this set of three bonus questions. A bonus set aims to contain an easy part, a medium part and a hard part (but not necessarily in that order). Here, the easy part is intended to be the Louvre (probably the most famous art gallery in the world); the medium part the Prado (the biggest gallery in Madrid, and home to a number of internationally famous paintings); and the hard part is the Sofía (a modern art gallery in Madrid which is smaller and is probably less famous than the Prado, but still contains some very famous paintings).
- 
+A correct answer on the William the Conqueror tossup, then, would reward a team with this set of three bonus questions. In addition to a "**lead-in**" with some additional information about the topic, a bonus set aims to contain an easy part, a medium part and a hard part (but not necessarily in that order). Here, the easy part is intended to be primes (something everyone has heard of); the medium part Fermat's Last Theorem (its harder than primes, but certainly something someone without expertise in the area might expect to know); and the hard part is the pseudorandom numbers (something which many maths and computer science students would have heard of, but not many without a decent knowledge of these subjects might have). The aim of this bonus is, in effect, to test how in-depth one's knowledge of the subject is, and to reward teams with more knowledge with more points. [^1]
+
+[^1]: The tossup and the bonus in this example have been adapted from, respectively, [2017 Ladue Invitational Spring Tournament](http://quizbowlpackets.com/1978/) and [2014 BELLOCO](http://quizbowlpackets.com/651/).
+
 Thousands of sample questions of varying difficulties are available on the [Quizbowl Packet Archive](http://www.quizbowlpackets.com). Higher level questions are available in the Collegiate section, but for beginners it’s usually best to try some in the High School section and move up a notch if preferred. Some packets especially designed for new players can be found [here](http://www.hsquizbowl.org/db/questionsets/search/?name=SCOP%20Novice&hs=1&archived=y).
 
 ## Glossary
