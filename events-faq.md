@@ -67,7 +67,7 @@ Probably, yes. Many quizbowl enthusiasts have found success on the show, but we 
 
 > *I am not a student. Can I get involved?*
 
-UK Quizbolw is primarily involved in the organisation of university student quizzing, but there are competitions throughout the year which are classed as ‘Open’, and as such anyone is eligible to apply to play in them – these events are liable to be oversubscribed, though. If you are under 18, please contact the person organising the tournament before registering.
+UK Quizbowl is primarily involved in the organisation of university student quizzing, but there are competitions throughout the year which are classed as ‘Open’, and as such anyone is eligible to apply to play in them – these events are liable to be oversubscribed, though. If you are under 18, please contact the person organising the tournament before registering.
 
 > *Where do I get buzzers?*
 
