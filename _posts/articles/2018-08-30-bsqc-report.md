@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "British Student Quiz Championship 2018: report"
+title: "British Student Quiz Championships 2018: report"
 excerpt: "We review the 2018 BSQC: Cambridge A emerge victorious among some strong debuts across the field."
 categories: articles
 share: true
@@ -15,7 +15,7 @@ image:
 
 *If you are interested in attending a future version of this tournament please get in touch through email at <contact@quizbowl.co.uk> or through Facebook or Twitter.*
 
-The 2018 edition of the British Student Quiz Championship was held at Imperial College, London, on the 5<sup>th</sup> May and the tournament continues to go from strength to strength. Amongst the scenic surroundings of Albertopolis and the UK headquarters of the Church of Latter Day Saints, a huge field of 22 teams put their fingers on the buttons for a scintillating day of quiz.   Cambridge A emerged victorious after a hotly contested day of quiz but the standard of the field across the board suggests that they are unlikely to be beginning an era of the sort which Oxford had established over the past decade.
+The 2018 edition of the British Student Quiz Championships was held at Imperial College, London, on the 5<sup>th</sup> May and the tournament continues to go from strength to strength. Amongst the scenic surroundings of Albertopolis and the UK headquarters of the Church of Latter Day Saints, a huge field of 22 teams put their fingers on the buttons for a scintillating day of quiz.   Cambridge A emerged victorious after a hotly contested day of quiz but the standard of the field across the board suggests that they are unlikely to be beginning an era of the sort which Oxford had established over the past decade.
  
 Several teams made their tournament debuts this year, including QMUL and Leicester. Another promising debut came from Joe Bath, who led Manchester B scoring over 40 starter points per game, while Joe Middleton-Welling and Johnny Davidson also made confident debuts performing at this level. 
  

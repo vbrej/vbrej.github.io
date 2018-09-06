@@ -13,7 +13,7 @@ Over the years, the quizbowl community has developed its own somewhat specific j
 
 **Bracket:** Many tournaments have too many teams for them all to play each other; in this case, teams will play in a ‘prelim bracket’ in the morning against a proportion of the field, and then play teams with roughly the same number of wins as them in the afternoon. The teams with the most wins in a prelim bracket will play in the ‘top bracket’.
 
-**Briticise:** The act of getting an American question set and replacing/editing questions to make it more suitable to a British audience. This usually involves removing content that is much harder in America than in the UK (such as American sports and history), and making questions on British history and current events harder.
+**Briticise:** The act of getting an American question set and replacing/editing questions to make it more suitable to a British audience. This usually involves removing content that is much harder in the UK than in America (such as American sports and history), and making questions on British history and current events harder.
 
 **BSQC:** British Student Quizbowl Championship. The most prestigious collegiate tournament of the year, with the largest field.
 
