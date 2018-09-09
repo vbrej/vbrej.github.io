@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "British Student Quiz Championships 2018: report"
+title: "British Student Quiz Championships–2018: report"
 excerpt: "We review the 2018 BSQC: Cambridge A emerge victorious among some strong debuts across the field."
 categories: articles
 share: true

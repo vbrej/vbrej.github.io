@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Oxford Autumn Tournament 2018"
+title: "Oxford Autumn Tournament–2018"
 excerpt: "Announcement of the first student tournament of the season."
 categories: articles
 share: true
