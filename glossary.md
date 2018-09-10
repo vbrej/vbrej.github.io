@@ -15,7 +15,7 @@ Over the years, the quizbowl community has developed its own somewhat specific j
 
 **Briticise:** The act of getting an American question set and replacing/editing questions to make it more suitable to a British audience. This usually involves removing content that is much harder in the UK than in America (such as American sports and history), and making questions on British history and current events harder.
 
-**BSQC:** British Student Quizbowl Championship. The most prestigious collegiate tournament of the year, with the largest field.
+**BSQC:** British Student Quizbowl Championships. The most prestigious collegiate tournament of the year, with the largest field.
 
 **Cap:** The number of teams which can play in a given tournament: constraints on rooms and number of people willing to moderate may lead to small field caps. The largest UK tournament has a field cap of 24 teams.
 
