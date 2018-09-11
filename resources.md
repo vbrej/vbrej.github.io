@@ -28,6 +28,8 @@ Lots of UK quiz societies already have websites. Several of these websites are a
 
 **Oxford:** <http://users.ox.ac.uk/~quiz>
 
+**Oxford Brookes:** <https://www.facebook.com/OBUQuizSoc/>
+
 **Queen’s, Belfast:** <https://www.facebook.com/QueensQuizSociety>
 
 **Southampton:** <https://www.susu.org/groups/university-of-southampton-quiz-society>
