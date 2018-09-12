@@ -10,7 +10,7 @@ image:
   teaser: obu-400x250.jpg
 ---
 
-In his four year at Oxford Brookes University, Tom De Bock has helped develop its quiz society from a loose group of people keen on pub quizzes to a strong community with a committed core of academic competition enthusiasts. In this column for the UKQB blog, he shares some of his personal experiences of the process, as well as advice for anyone who might be interested in setting up and growing a quiz society in their university.
+In his four years at Oxford Brookes University, Tom De Bock has helped develop its quiz society from a loose group of people keen on pub quizzes to a strong community with a committed core of academic competition enthusiasts. In this column for the UKQB blog, he shares some of his personal experiences of the process, as well as advice for anyone who might be interested in setting up and growing a quiz society in their university.
 
 ## How to set up a quiz society
 
