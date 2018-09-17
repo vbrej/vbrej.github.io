@@ -3,6 +3,24 @@
    ========================================================================== */
 
 /*
+   Facebook button .btn-fb
+   ========================================================================== */
+
+.btn-fb {
+	@extend .btn;
+	background-color: $white;
+	color: $text-color;
+	&:visited,
+	&:active {
+		color: $text-color;
+	}
+	&:hover {
+		color: $white;
+		background-color: $facebook-color;
+	}
+}
+
+/*
    Default button .btn
    ========================================================================== */
 

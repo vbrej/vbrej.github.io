@@ -19,7 +19,7 @@ Starter questions (or, colloquially, **tossups**) are still worth **10** points 
 
 A feature of some quizbowl tournaments is the "**power**", which aims to reward more knowledge of a subject. Players who buzz in with a correct answer before a certain point in the question (a mark in the text visible to the question reader but not to the players) will earn **15** points rather than 10. The idea is that more knowledge about a given answer is required to be able to get a power, so in turn more points are awarded.
 
-Bonus questions in quizbowl are very similar to those in *University Challenge*, with the main difference being that each of the three bonus parts is worth **10** points, rather than 5. Conferring between team members is allowed, in contrast to tossups. Bonuses in quizbowl are themed around a different topic (and usually a different category altogether) than the preceding tossup question, which isn't always the case on University Challenge.
+Bonus questions in quizbowl are very similar to those in *University Challenge*, with the main difference being that each of the three bonus parts is worth **10** points, rather than 5. Conferring between team members is allowed, in contrast to tossups. Bonuses in quizbowl are themed around a different topic (and usually a different category altogether) than the preceding tossup question, which isn't always the case on *University Challenge*.
 
 ## Quizbowl and *University Challenge*
 
