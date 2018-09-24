@@ -117,6 +117,15 @@ li code {
 
 /* Figures and images */
 
+img + em { display: block; text-align: center;}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 15px;
+}
+
 figure {
   margin-left: -1 * $gutter;
   margin-right: -1 * $gutter;

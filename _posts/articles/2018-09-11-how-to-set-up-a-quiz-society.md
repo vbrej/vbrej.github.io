@@ -12,7 +12,7 @@ image:
 
 In his four years at Oxford Brookes University, Tom De Bock has helped develop its quiz society from a loose group of people keen on pub quizzes to a strong community with a committed core of academic competition enthusiasts. In this column for the UKQB blog, he shares some of his personal experiences of the process, as well as advice for anyone who might be interested in setting up and growing a quiz society in their university.
 
-## How to set up a quiz society
+#### How to set up a quiz society
 
 The title of this post may be erring a bit on the clickbait side. When I arrived at Oxford Brookes University, there was a Quiz Society already set up, so I did not have to go through the motions of registering a new student society. Nevertheless, it was a long way up from where the society was in 2014 to how I left it earlier this year, and hopefully this article will help new student quiz teams to find their footing and get involved.
 
