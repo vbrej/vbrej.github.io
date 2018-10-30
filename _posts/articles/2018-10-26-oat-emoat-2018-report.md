@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "OAT and EMOAT—2018: report"
+title: "OAT and EMOAT–2018: report"
 excerpt: "A quick recap of recent tournaments in Oxford and Edinburgh."
 categories: articles
 share: true
