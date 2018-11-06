@@ -21,4 +21,4 @@ UK Quizbowl are to hold elections for the following positions:
 * <p style="font-size: 18px">Social Media Officer, who maintains and helps to run UKQB’s social media accounts;</p>
 * <p style="font-size: 18px">Ordinary Committee Member.</p>
 
-You can hold two of these positions at a time. If you’re interested, please apply for these positions by emailing <contact@quizbowl.co.uk> by Wednesday, 7<sup>th</sup> November. A vote will be held among the current committee and we hope to have the elections finished by 11<sup>th</sup> November. If you have any questions, please contact us at the above email. 
+You can hold two of these positions at a time. If you’re interested, please apply for these positions by emailing <contact@quizbowl.co.uk> by Sunday, 11<sup>th</sup> November. A vote will be held among the current committee and we hope to have the elections finished by 15<sup>th</sup> November. If you have any questions, please contact us at the above email. 
