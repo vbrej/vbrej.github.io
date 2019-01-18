@@ -50,7 +50,7 @@ The above list is not fixed: some tournaments reduce the amount of "academic" co
 
 All the above is best illustrated with some examples, so here is a tossup and bonus set from a tournament held in 2017 that was designed to be accessible to new players.
 
-#### Tossup
+##### Tossup
 
 > <p style="font-size: 18px">
 	<span style="font-weight: bold">At the Council of Reims, Leo IX opposed this leader’s intended marriage. According to tradition, this leader’s mother was the daughter of a tanner from Falaise [fah-LEZ]. This king’s archbishop Lanfranc eventually gained dispensation for his marriage to Matilda of Flanders. He defeated the supporters of (*)</span> Edgar the Atheling, who opposed his succession to Edward the Confessor. For 10 points, name this Duke of Normandy who won the Battle of Hastings.</p>
@@ -62,7 +62,7 @@ An answer of "William II" alone would not be acceptable, since it would implicit
 
 Additionally, an answer of "William" is not specific enough, since there have so far been four King Williams of England, so the question reader is instructed to "**prompt**" the player answering to be more specific, upon which they could answer with any of the four underlined alternatives to be ruled correct.
 
-#### Bonus
+##### Bonus
 
 > <p style="font-size: 18px">The Taniyama-Shimura conjecture was cited in the proof of this theorem as a link between elliptic curves and modular forms. For 10 point each: <br /> <br />
 [10] Name this theorem proved by Andrew Wiles. It states that no three positive integers a, b, and c can satisfy the equation "a-to-the-n plus b-to-the-n equals c-to-the-n" for integer values of n greater than two. <br />

@@ -16,7 +16,7 @@ sass:
   style: compressed
 permalink: /:categories/:title/
 kramdown:
-  toc_levels: 1..2
+  toc_levels: "2,4"
 highlighter: rouge
 gems:
   - jekyll-sitemap
