@@ -10,7 +10,7 @@ image:
   teaser: cannae-2019-400x250.jpg
 ---
 
-*Current information about the tournament is available on the Facebook event, link to be posted soon.*
+*Current information about the tournament is available on the [Facebook event](https://www.facebook.com/events/2017430395045376/).*
 
 The Edinburgh University Quiz Society together with UK Quizbowl will hold another novice quiz tournament, **Caledonian And Northern Novice At Edinburgh (CANNAE)**, on February 9<sup>th</sup>.
 

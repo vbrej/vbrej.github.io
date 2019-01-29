@@ -22,7 +22,7 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
 
 <br>
 
-#### The committee
+#### Committee
 
 <table>
   <tbody>
