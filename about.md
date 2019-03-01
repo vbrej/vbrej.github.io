@@ -59,14 +59,6 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
     </tr>
     <tr>
     	<td>
-    		<img src="{{ site.url }}{{ site.baseurl }}/images/committee/ellie.jpg" alt="">
-    	</td>
-    	<td>
-    		<p style="font-size: 18px"><span style="font-weight: bold">Blog Manager:</span> Elysia Warner</p><p style="font-size: 16px">Elysia Warner is the Blog Manager for UKQB. She studied linguistics and bits of Chinese and Polish at Clare College, Cambridge, and served as president and squad captain for CUQS. Highlights included trips to play at ACF Nationals in New York and Boston, winning BSQC in 2018, and appearing on <span style="font-style: italic">University Challenge</span> and <span style="font-style: italic">Only Connect</span>. These days she lives in Birmingham, working as a civil servant by day and on linguistics olympiad projects by night. Her specialist subjects are weird language facts, ballet, and Senegalese fiction.</p>
-    	</td>
-    </tr>
-    <tr>
-    	<td>
     		<img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
     	</td>
     	<td>
@@ -99,11 +91,19 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
     </tr>
     <tr>
     	<td>
-    		<img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
+    		<img src="{{ site.url }}{{ site.baseurl }}/images/committee/thill.jpg" alt="">
     	</td>
     	<td>
-    		<p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member:</span> Frances Clark-Murray</p><p style="font-size: 16px">Bio to be provided soon.</p>
+    		<p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member:</span> Tom Hill</p><p style="font-size: 16px">Tom Hill is an Ordinary Committee Member for UKQB. He studied history at Emmanuel College, Cambridge, and began playing quizbowl as a second year undergraduate whilst preparing to appear on <span style="font-style: italic">University Challenge</span>. Undeterred by a heart-breaking loss in the semi-finals, he continued quizzing and went on to serve as president of the Cambridge Quiz Society. He currently lives and works in London, where he spends most of his free time reading about medieval popes and playing the piano.</p>
     	</td>
+    </tr>
+    <tr>
+        <td>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/ellie.jpg" alt="">
+        </td>
+        <td>
+            <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member:</span> Elysia Warner</p><p style="font-size: 16px">Elysia Warner is an Ordinary Committee Member for UKQB. She studied linguistics and bits of Chinese and Polish at Clare College, Cambridge, and served as president and squad captain for CUQS. Highlights included trips to play at ACF Nationals in New York and Boston, winning BSQC in 2018, and appearing on <span style="font-style: italic">University Challenge</span> and <span style="font-style: italic">Only Connect</span>. These days she lives in Birmingham, working as a civil servant by day and on linguistics olympiad projects by night. Her specialist subjects are weird language facts, ballet, and Senegalese fiction.</p>
+        </td>
     </tr>
   </tbody>
 </table>
