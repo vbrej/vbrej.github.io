@@ -53,7 +53,7 @@ Congratulations to Joey Goldman (City), Evan Lynch (Southampton A) and Joseph Kr
 ![Umbrellas]({{ site.url }}{{ site.baseurl }}/images/bsqc-2019/oxford-c.jpeg){: .center-image }
 *Oxford C bring a splash of colour to a grey day.*
 
-We at UKQB hope that everyone who attended BSQC enjoyed the day. We would be extremely grateful if anyone who was there (players and moderators alike) could fill in [**this questionnaire**](https://goo.gl/forms/k6ZQhV2N8yRZpZSO2), to let us know what was done well, and what we could change next year to make the tournament better. We hope to see many of you return next year!
+We at UKQB hope that everyone who attended BSQC enjoyed the day. Photos in high definition from the day can be found [**here**](https://photos.app.goo.gl/pwDy5pm9PvpWjCMF6). We would be extremely grateful if anyone who was there (players and moderators alike) could fill in [**this questionnaire**](https://goo.gl/forms/k6ZQhV2N8yRZpZSO2), to let us know what was done well, and what we could change next year to make the tournament better. We hope to see many of you return next year!
 
 ![Imperial-B]({{ site.url }}{{ site.baseurl }}/images/bsqc-2019/imperial-b.jpeg){: .center-image }
 *Imperial B did not come away with the trophy this time, but they did get a nice photo with it!*
