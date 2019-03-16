@@ -8,7 +8,7 @@ ads: false
 author_profile: false
 image:
   feature: bsqc-2019/header.jpg
-  teaser: bsqc-2019/thumbnail.jpg
+  teaser: bsqc-2019/thumbnail.jpeg
 ---
 
 On the 10<sup>th</sup> March, 28 student teams travelled to South Kensington in London to compete in the 2019 British Student Quiz Championships at Imperial College. In what was the largest edition of the tournament yet, we saw spectacular triumphs, heroic defeats, sublime buzzing and a nail-biting finale, before at last crowning our victors, Oxford A.
