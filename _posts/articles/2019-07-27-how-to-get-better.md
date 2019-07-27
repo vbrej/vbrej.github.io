@@ -11,6 +11,8 @@ image:
   feature: hardwick-article-1600x1000.jpg
 ---
 
+*Kicking off a series of articles on tips for improving your quiz knowledge, Alex Hardwick, current Oxford PhD student and a 2019-20* University Challenge *contestant, offers his perspective on how to get better at quizbowl in nine (not always easy) steps.*
+
 When you start quizzing seriously --- trying out for *University Challenge*, turning up to buzzer practices, even entering your first quizbowl tournament --- it can feel deeply intimidating. You know stuff; you find the literary works of Jeanette Winterson, the scientific discoveries of Rosalind Franklin and/or the plot development of *The Simpsons* fascinating --- but it feels as though someone else buzzes with the answer before the question is even speaking a language you understand. In many ways, for me, it still feels that way. There's a vast amount of knowledge, spanning topics you never even dreamed existed, and the quizzers who've been doing this for a while seem to know... well, almost all of it.
 
 I've been doing this quite seriously --- going to buzzer practices at the Oxford University Quiz Society, and working in my own time to try to improve --- for eight months at the time of writing of this article. I remember how it feels when you think that you don't know much, you have no idea where to even start, and it seems that all the scarily good quizzers are simply unbeatable.
