@@ -70,7 +70,7 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
 			<img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
 		</td>
 		<td>
-			<p style="font-size: 18px"><span style="font-weight: bold">Diversity Officer:</span> Brandon Saunders</p><p style="font-size: 16px">Brandon is the Diversity Officer at UKQB. Although he never actually played quizbowl while he was at university, he has been a regular moderator for years, including at national championship tournaments in the USA. He also remains heavily involved in competing in quizzes of all types, and has been a regular contestant on quiz shows back in America for more than a decade. When he is not preparing for quizzes, Brandon can usually be found rock climbing or searching London for New-York style pizza that actually tastes like it's from New York.</p>
+			<p style="font-size: 18px"><span style="font-weight: bold">Diversity Officer:</span> Brandon Blackwell</p><p style="font-size: 16px">Brandon is the Diversity Officer at UKQB. Although he never actually played quizbowl while he was at university, he has been a regular moderator for years, including at national championship tournaments in the USA. He also remains heavily involved in competing in quizzes of all types, and has been a regular contestant on quiz shows back in America for more than a decade. When he is not preparing for quizzes, Brandon can usually be found rock climbing or searching London for New-York style pizza that actually tastes like it's from New York.</p>
 		</td>
 	</tr>
 	<tr>
