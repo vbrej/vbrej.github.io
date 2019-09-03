@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "UKQB Buzzer Handover"
+title: "UKQB buzzer handover"
 excerpt: "Glasgow Uni Quiz Society receive a buzzer set from UKQB."
 categories: articles
 share: true
