@@ -67,10 +67,10 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
     </tr>
     <tr>
         <td>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/tdb.png" alt="">
         </td>
         <td>
-            <p style="font-size: 18px"><span style="font-weight: bold">Outreach Officer:</span> Thomas De Bock</p><p style="font-size: 16px">Bio to appear soon.</p>
+            <p style="font-size: 18px"><span style="font-weight: bold">Outreach Officer:</span> Thomas De Bock</p><p style="font-size: 16px">Thomas is the Outreach Officer for UKQB. He was a long-time QuizSoc president and quizbowl team captain at Oxford Brookes University, where he studied Motorsport Engineering. As a Belgian fan of motorsport who went to a relatively minor university, he enjoys writing questions on Belgium and motorsport, as well as spreading the world of quiz to all universities. He currently lives in Banbury, where he works as a Formula E engineer.</p>
         </td>
     </tr>
     <tr>
@@ -115,10 +115,10 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
     </tr>
     <tr>
         <td>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/cj.jpg" alt="">
         </td>
         <td>
-            <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member:</span> Claire Jones</p><p style="font-size: 16px">Bio to appear soon.</p>
+            <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member:</span> Claire Jones</p><p style="font-size: 16px">Claire started her quizzing career in the faraway land of Texas, making the rounds at local, state, and national tournaments as a high-school player. She retired (or so she thought) from quiz at university before being tempted back to the buzzers when she arrived at Oxford for a master’s degree in 2018. She has recently made the transition to Oxford townie, but still occasionally shows up to practices to confuse freshers.</p>
         </td>
     </tr>
     <tr>
