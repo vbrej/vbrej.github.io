@@ -12,7 +12,7 @@ image:
 
 This term, UKQB is hosting a range of events, from novice tournaments to trials that will test even the most experienced players on the circuit. Their locations, and details for how to take part in them, will be circulated on [our Facebook page](https://www.facebook.com/quizbowluk/) soon. Below, we’ve given a brief summary of the wide variety of events being held in the next few months – don’t hesitate to contact us if you’d like any more information or advice as to what to take part in.
 
-**25th January -- ACF Regionals:** Regs, arguably the year’s premier event held on longer-form questions, will provide a testing start to the season. Always a tightly-edited set, it’s written by some of the most experienced American quizzers and will doubtless be of high quality. The set is well-suited to teams that have played a few easier tournaments and who are looking to take their game to the next level.
+**25th January -- ACF Regionals:** Regs, arguably the year’s premier event held on longer-form questions, will provide a testing start to the season. Always a tightly-edited set, it’s written by some of the most experienced American quizzers and will doubtless be of high quality. The set is well-suited to teams that have played a few easier tournaments and who are looking to take their game to the next level. 
 
 ****
 
