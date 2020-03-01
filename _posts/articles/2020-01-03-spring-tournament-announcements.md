@@ -37,7 +37,3 @@ This term, UKQB is hosting a range of events, from novice tournaments to trials 
 ****
 
 **21st March -- Terrapin Open:** This tournament, intended as preparation for the American ‘nationals’ championships, will be one of the hardest hosted in the UK this year, and should provide a stretching close to the Spring term’s proceedings.
-
-****
-
-**28th March -- Scotbowl:** Perhaps the most *sui generis* tournament in British quizbowl, Scotbowl’s refreshingly eccentric style has attracted a cult following, and is one of the nearest things to *University Challenge* save going on the show. It’s suitable for players of all levels, though shaping up to be somewhat more challenging this year than in its previous iterations.
