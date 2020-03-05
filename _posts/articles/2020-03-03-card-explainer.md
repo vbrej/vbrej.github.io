@@ -8,6 +8,7 @@ ads: false
 image:
   teaser: 2020-card-explainer-400x250.jpg
   feature: 2020-card-explainer-1600x1000.jpg
+published: false
 ---
 
 *Tournament director of 2020 British Student Quiz Championships, Daoud Jackson, explains how this year's competition will use the card system to ensure everyone has the most meaningful and enjoyable experience possible.*
