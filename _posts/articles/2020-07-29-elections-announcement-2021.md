@@ -1,13 +1,28 @@
 ---
 layout: article
-title: "Call for elections"
-excerpt: "We are seeking nominations for the UKQB committee for the 2020/21 season."
+title: "Call for elections (Updated)"
+excerpt: "UKQB committee for the 2020/21 season has been elected."
 categories: articles
 share: true
 ads: false
 image:
   teaser: elections-2021-400x250.png
 ---
+
+**Update (28/08/20):** The elections have now concluded and the UKQB committee for 2019/20 is as follows:
+
+* <p style="font-size: 18px"><span style="font-weight: bold">George Charlson</span> as President;</p>
+* <p style="font-size: 18px"><span style="font-weight: bold">Daniel Lawson</span> as Treasurer;</p>
+* <p style="font-size: 18px"><span style="font-weight: bold">Tya Raikundalia</span> as Secretary;</p>
+* <p style="font-size: 18px"><span style="font-weight: bold">Seoan Webb</span> as Tournament Supervisor;</p>
+* <p style="font-size: 18px"><span style="font-weight: bold">Michael Kohn</span> as Blog Manager;</p>
+* <p style="font-size: 18px"><span style="font-weight: bold">Frances Clark-Murray</span> as Safeguarding Officer;</p>
+* <p style="font-size: 18px"><span style="font-weight: bold">Thomas De Bock</span> as Outreach Officer;</p>
+* <p style="font-size: 18px"><span style="font-weight: bold">Alexander Hardwick</span> as Communications Officer;</p>
+* <p style="font-size: 18px"><span style="font-weight: bold">Vitalijs Brejevs</span> as Digital Officer;</p>
+* <p style="font-size: 18px"><span style="font-weight: bold">Laura Cooper</span>, <span style="font-weight: bold">Andrew Corsini</span>, <span style="font-weight: bold">Ben Russell Jones</span>, <span style="font-weight: bold">Joseph Krol</span> and <span style="font-weight: bold">Evan Lynch</span> as Ordinary Committee Members.
+
+***
 
 <p style="font-size: 18px">We are seeking people to run for positions on the UK Quizbowl committee to continue our exciting programme of growing student buzzer quizzing in the UK in the 2020/21 season. As a student-led organisation, over the past two years we have tendered more than 30 events in eight universities across the UK, including the biggest ever British Student Quiz Championships, raised funds for charity, established a buzzer fund for new and expanding quiz societies, overseen the production of several tournaments for novice players, and much more. We especially encourage applications from current students at universities not currently represented on the committee of UKQB. The available positions are:</p>
 

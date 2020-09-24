@@ -10,31 +10,17 @@ There exists a vast array of quizbowl resources on the internet, and whilst most
 
 {% include toc.html %}
 
+## Introduction to quizbowl
+
+UKQB have prepared a quick and friendly explainer of the rules of quizbowl, which you will find valuable if you are just starting out: find it [**here**]({{ site.url }}{{ site.baseurl }}/intro/).
+
+## Discord
+
+We have a [**Discord server**](https://discord.gg/GY2RnCE) for casual chat and *University Challenge* discussion as well as online practice, both spontaneous and organised by UKQB.
+
 ## Student quiz societies
 
-Lots of UK quiz societies already have websites. Several of these websites are a little rudimentary but get in touch with the societies through email or Facebook for more information on events they are putting on.
-
-**Cambridge:** <http://quizsoc.soc.srcf.net>
-
-**Cardiff:** <https://www.cardiffstudents.com/activities/society/quiz>
-
-**Edinburgh:** <https://www.eusa.ed.ac.uk/activities/societies/society/quizsoc>
-
-**Glasgow:** <https://www.facebook.com/guquizsociety>
-
-**Imperial:** <https://www.imperialcollegeunion.org/activities/a-to-z/quiz>
-
-**LSE:** <https://www.lsesu.com/organisation/quizclub>
-
-**Oxford:** <http://users.ox.ac.uk/~quiz>
-
-**Oxford Brookes:** <https://www.facebook.com/OBUQuizSoc/>
-
-**Queen’s, Belfast:** <https://www.facebook.com/QueensQuizSociety>
-
-**Southampton:** <https://www.susu.org/groups/university-of-southampton-quiz-society>
-
-**Warwick:** <https://www.warwicksu.com/societies/quizsoc>
+Lots of UK quiz societies already have websites or Facebook pages. Be wary that some of them might be irregularly maintained, so do get in touch with your university's society: usually, Facebook or student union pages are most useful. Here's a few of the most active ones:  [Cambridge](http://quizsoc.soc.srcf.net), [Bristol](https://www.facebook.com/BrizQuiz/), [Cardiff](https://www.cardiffstudents.com/activities/society/quiz), [Edinburgh](https://www.facebook.com/UoEQuizSoc/), [Exeter](https://www.facebook.com/ExeQuiz/), [Glasgow](https://www.facebook.com/guquizsociety), [Imperial](https://www.imperialcollegeunion.org/activities/a-to-z/quiz), [LSE](https://www.lsesu.com/organisation/quizclub), [Oxford](http://users.ox.ac.uk/~quiz), [Oxford Brookes](https://www.facebook.com/OBUQuizSoc/), [Queen’s, Belfast](https://www.facebook.com/QueensQuizSociety), [Southampton](https://www.susu.org/groups/university-of-southampton-quiz-society), [Warwick](https://www.warwicksu.com/societies/quizsoc).
 
 ## Quizbowl questions
 

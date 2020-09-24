@@ -28,41 +28,41 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
   <tbody>
     <tr>
       <td width="30%">
-      		<img src="{{ site.url }}{{ site.baseurl }}/images/committee/georgec.jpg" alt=""></td>
+      		<img src="{{ site.url }}{{ site.baseurl }}/images/committee/gc.jpg" alt=""></td>
       <td align="left">
-      		<p style="font-size: 18px"><span style="font-weight: bold">President:</span> George Charlson</p><p style="font-size: 16px">George is a founding member and President of UKQB. He did an undergraduate and Masters degree at Oxford, where he intermittently played quizbowl. After a short break from academia, he returned to Oxford for more punishment as an DPhil in Economics. He is currently Squad Captain for OUQS. George's focus as President is growing the game across the country and trying to make quizbowl as affordable as possible.</p>
+      		<p style="font-size: 18px"><span style="font-weight: bold">President:</span> George Charlson</p><p style="font-size: 16px">George is a founding member and President of UKQB. He is now a postdoc at Cambridge and a Fellow of Christ’s College. He did his undergraduate degree, Masters and DPhil at Oxford, where he played quizbowl. George's focus as President is growing the game across the country and trying to make quizbowl as affordable as possible.</p>
       </td>
     </tr>
     <tr>
     	<td>
-    		<img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
+    		<img src="{{ site.url }}{{ site.baseurl }}/images/committee/dan.jpg" alt="">
     	</td>
     	<td>
-    		<p style="font-size: 18px"><span style="font-weight: bold">Treasurer:</span> Daniel Lawson</p><p style="font-size: 16px">Bio to appear soon.</p>
-    	</td>
-    </tr>
-    <tr>
-    	<td>
-    		<img src="{{ site.url }}{{ site.baseurl }}/images/committee/vitalijs.jpg" alt="">
-    	</td>
-    	<td>
-    		<p style="font-size: 18px"><span style="font-weight: bold">Secretary and Website Manager:</span> Vitalijs Brejevs</p><p style="font-size: 16px">Vitalijs Brejevs is a founding member and Secretary of UKQB, who is also responsible for the technical side of the website. He represented the University of Glasgow on <span style="font-style: italic">University Challenge</span> whilst studying for his undergraduate degree, but only got involved with quizbowl during his master's at Pembroke College, Cambridge. When not quizzing, running or playing volleyball, he is studying for a PhD in Mathematics at the University at Glasgow.</p>
+    		<p style="font-size: 18px"><span style="font-weight: bold">Treasurer:</span> Daniel Lawson</p><p style="font-size: 16px">Dan is UKQB’s Treasurer, dealing with finances and transactions between UKQB and universities and organisations such as ACF and NAQT. He has been playing quizbowl since he was a fresher, and has held various positions on the CUQS committee, including being their incumbent Treasurer also. When not quizzing or updating some spreadsheet somewhere, he is probably failing to take blood from a patient in his guise as a fifth-year medical student.</p>
     	</td>
     </tr>
     <tr>
     	<td>
-    		<img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
+    		<img src="{{ site.url }}{{ site.baseurl }}/images/committee/tya.jpg" alt="">
     	</td>
     	<td>
-    		<p style="font-size: 18px"><span style="font-weight: bold">Tournament Supervisor:</span> Evan Lynch</p><p style="font-size: 16px">UKQB’s Tournament Supervisor, Evan Lynch began his quizzing career whilst studying Natural Sciences at Christ’s College, Cambridge, where he followed up an unsuccessful appearance on <span style="font-style: italic">University Challenge</span> with multiple unsuccessful efforts to win the British Student Quiz Championships. He continues to play quizbowl whilst working on a PhD in Chemistry at the University of Southampton and Diamond Light Source, and he also plays for the Nomads in the Quiz League of London. He has served as the head editor of multiple UK tournaments, including Cambridge Open, MKULTRA and every iteration of British Novice.</p>
+    		<p style="font-size: 18px"><span style="font-weight: bold">Secretary:</span> Tya Raikundalia</p><p style="font-size: 16px">Tya is the Secretary of the committee this year, having started her third year of quizzing at Oxford Brookes University. When she is not at training or Taekwondo, Tya is either cooking or working on her law degree as she prepares for a MA in Human Rights Law.</p>
+    	</td>
+    </tr>
+    <tr>
+    	<td>
+    		<img height="200" src="{{ site.url }}{{ site.baseurl }}/images/committee/webb.png" alt="">
+    	</td>
+    	<td>
+    		<p style="font-size: 18px"><span style="font-weight: bold">Tournament Supervisor:</span> Seoan Webb</p><p style="font-size: 16px">Seoan Webb is the Tournament Supervisor for UKQB, as well as the current webmaster for OUQS. He has been playing quizbowl for a year now and has appeared on <span style="font-style: italic">University Challenge</span>, and also enjoys playing whatever other quizzes he can fit into his embarrassingly abundant free time. Besides this he occasionally does work towards an Ancient and Modern History degree at Corpus Christi College, Oxford, which has so far posed no impediment to him missing easy history questions both on and off screen.</p>
     	</td>
     </tr>
     <tr>
         <td>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/kohn.jpg" alt="">
         </td>
         <td>
-            <p style="font-size: 18px"><span style="font-weight: bold">Blog Manager:</span> Joseph Krol</p><p style="font-size: 16px">Bio to appear soon.</p>
+            <p style="font-size: 18px"><span style="font-weight: bold">Blog Manager:</span> Michael Kohn</p><p style="font-size: 16px">Michael Kohn is the Blog Editor for UKQB and is also on the committee for Imperial’s Quiz Society where he is in his third year of studying maths. This will be his second proper year of quizzing, coming off the back of appearing as the captain of Imperial’s University Challenge team where he relished incorrectly interrupting on his specialisms. When not trying to understand differential geometry or quizzing, he can usually be found sporadically across campus, often playing the French horn or trying to conduct his orchestra.</p>
         </td>
     </tr>
     <tr>
@@ -75,10 +75,10 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
     </tr>
     <tr>
         <td>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/tya.jpg" alt="">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/alex.jpg" alt="">
         </td>
         <td>
-            <p style="font-size: 18px"><span style="font-weight: bold">Social Media Manager:</span> Tya Raikundalia</p><p style="font-size: 16px">Dealing with social media for UK Quizbowl, Tya discovered quizzing in first year and decided she loved it after a miraculous attempt at 2018 British Novice Tournament with the Chimera Oxbridge team. When not quizzing she is studying law at Oxford Brookes University and preparing to go to Michigan on placement.</p>
+            <p style="font-size: 18px"><span style="font-weight: bold">Communications Officer:</span> Alexander Hardwick</p><p style="font-size: 16px">Alex (he/him) has been involved in competitive quizzing since May 2018. Highlights include a TV appearance on University Challenge for Magdalen College, Oxford and being the first player in the world to get a tossup on the First Battle of Bull Run after only seven words, an achievement he still won’t shut up about. Alex now lurks at tournaments trying to get literature questions right for Oxford A; If you meet him, be sure to say hi and let him tell you why Rachmaninoff’s music is the high point of human achievement.</p>
         </td>
     </tr>
 	<tr>
@@ -86,15 +86,23 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
 			<img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
 		</td>
 		<td>
-			<p style="font-size: 18px"><span style="font-weight: bold">Diversity and Wellbeing Officer:</span> Brandon Blackwell</p><p style="font-size: 16px">Brandon is the Diversity Officer at UKQB. Although he never actually played quizbowl while he was at university, he has been a regular moderator for years, including at national championship tournaments in the USA. He also remains heavily involved in competing in quizzes of all types, and has been a regular contestant on quiz shows back in America for more than a decade. When he is not preparing for quizzes, Brandon can usually be found rock climbing or searching London for New-York style pizza that actually tastes like it's from New York.</p>
+			<p style="font-size: 18px"><span style="font-weight: bold">Safeguarding Officer:</span> Frances Clark-Murray</p><p style="font-size: 16px">Bio to appear soon.</p>
 		</td>
 	</tr>
     <tr>
+        <td>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/vb.jpg" alt="">
+        </td>
+        <td>
+            <p style="font-size: 18px"><span style="font-weight: bold">Digital Officer:</span> Vitalijs Brejevs</p><p style="font-size: 16px">Vitalijs Brejevs is a founding member and Digital Officer for UKQB, having served two previous years as Secretary. He represented the University of Glasgow on University Challenge whilst studying for his undergraduate degree, but only got involved with quizbowl during his master's at Pembroke College, Cambridge. When not quizzing or running, he is studying for a PhD in Mathematics at Glasgow.</p>
+        </td>
+    </tr>
+    <tr>
     	<td>
-    		<img src="{{ site.url }}{{ site.baseurl }}/images/committee/thill.jpg" alt="">
+    		<img src="{{ site.url }}{{ site.baseurl }}/images/committee/krol.jpg" alt="">
     	</td>
     	<td>
-    		<p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member:</span> Tom Hill</p><p style="font-size: 16px">Tom Hill is an Ordinary Committee Member for UKQB. He studied history at Emmanuel College, Cambridge, and began playing quizbowl as a second year undergraduate whilst preparing to appear on <span style="font-style: italic">University Challenge</span>. Undeterred by a heart-breaking loss in the semi-finals, he continued quizzing and went on to serve as president of the Cambridge Quiz Society. He currently lives and works in London, where he spends most of his free time reading about medieval popes and playing the piano.</p>
+    		<p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member:</span> Joseph Krol</p><p style="font-size: 16px">Joseph Krol is an Ordinary Member on the UKQB committee, in which role he mainly focuses on tournament organisation, working with Seoan Webb. This year, he will also be head-editing the fourth edition of the British Novice Tournament. Outside of quiz, he is pursuing a PhD in Fluid Dynamics at DAMTP. His other hobbies include writing, listening to an alarming number of albums, and feeling a vague sense of dread when describing himself in the third person.</p>
     	</td>
     </tr>
     <tr>
@@ -102,23 +110,7 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
             <img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
         </td>
         <td>
-            <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member:</span> Daoud Jackson</p><p style="font-size: 16px">Daoud Jackson is a founding member of UKQB and a current Ordinary Member of the committee. After being gripped with the quizzing bug while studying history at the University of Oxford, he has been passionate about giving as many people as possible the chance to beat him to quizbowl questions.</p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/oli.jpg" alt="">
-        </td>
-        <td>
-            <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member:</span> Oliver Clarke</p><p style="font-size: 16px">Oliver Clarke is an Ordinary Committee Member for UKQB. He is currently studying for DPhil in Ancient History at New College, Oxford, where he was an undergrad in Classics, before a year in Scotland at St Andrews for a master’s. Oli currently plays for Oxford, with a focus on buzzing on history, geography and current events. Oli has written and edited for Oxford’s tournament, OOT for too many years, and contributed questions and editing to several others. Outside of quizzing, he can often be found rowing on the River Thames. He hopes to be on <span style="font-style: italic">University Challenge</span> one day.</p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/cj.jpg" alt="">
-        </td>
-        <td>
-            <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member:</span> Claire Jones</p><p style="font-size: 16px">Claire started her quizzing career in the faraway land of Texas, making the rounds at local, state, and national tournaments as a high-school player. She retired (or so she thought) from quiz at university before being tempted back to the buzzers when she arrived at Oxford for a master’s degree in 2018. She has recently made the transition to Oxford townie, but still occasionally shows up to practices to confuse freshers.</p>
+            <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member:</span> Andrew Corsini</p><p style="font-size: 16px">Bio to appear soon.</p>
         </td>
     </tr>
     <tr>
@@ -126,7 +118,23 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
             <img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
         </td>
         <td>
-            <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member:</span> Danny Lay</p><p style="font-size: 16px">Bio to appear soon.</p>
+            <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member:</span> Ben Russell Jones</p><p style="font-size: 16px">Ben Jones has only been playing quizbowl for seven months, but since last lining 'aluminium' in the first tossup he had ever heard, he has attended the Oxford Open and BSQC, where he was on the team who were handed the largest defeat in BSQC history. A native Welshman and newly elected Ordinary Member, Ben is a second year student at the University of Edinburgh, studying Philosophy and Politics.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
+        </td>
+        <td>
+            <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member:</span> Evan Lynch</p><p style="font-size: 16px">UKQB's Ordinary Member and erstwhile Tournament Supervisor Evan Lynch began his quizzing career whilst studying Natural Sciences at Christ’s College, Cambridge, where he followed up an unsuccessful appearance on <span style="font-style: italic">University Challenge</span> with multiple unsuccessful efforts to win the British Student Quiz Championships. He continues to play quizbowl whilst working on a PhD in Chemistry at the University of Southampton and Diamond Light Source, and he also plays for the Nomads in the Quiz League of London. He has served as the head editor of multiple UK tournaments, including Cambridge Open, MKULTRA and several iterations of British Novice.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
+        </td>
+        <td>
+            <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member:</span> Laura Cooper</p><p style="font-size: 16px">Bio to appear soon.</p>
         </td>
     </tr>
   </tbody>
