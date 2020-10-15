@@ -7,7 +7,13 @@ share: true
 toc: true
 ---
 
-As part of our commitment to safeguarding, UKQB events are run in accordance with the following code of conduct; the form for reporting any violations is available [**here**]({{ site.url }}{{ site.baseurl }}/misconduct/).
+As part of our commitment to safeguarding and fair play, UKQB events are run in accordance with the following code of conduct. The following forms can be used to report any violations of the code and the cheating statement:
+* <p style="font-size: 18px"><span style="font-weight: bold"><a href="https://quizbowl.co.uk/misconduct/">safeguarding reporting form</a></span></p>
+* <p style="font-size: 18px"><span style="font-weight: bold"><a href="https://quizbowl.co.uk/misconduct/">cheating reporting form</a></span></p>
+
+{% include toc.html %}
+
+#### Code of conduct
 
 1. All players and moderators should treat other participants and staff at a UKQB tournament with respect.
 2. All players and moderators should not engage in exclusionary behaviour, which includes, but is not limited to: 
@@ -24,4 +30,22 @@ As part of our commitment to safeguarding, UKQB events are run in accordance wit
 9. Unless the tournament director decides otherwise, other staff may not impose sanctions, except that a moderator must eject from a game any person found to have committed misconduct a second time during that game (i.e., a tournament director may give the staff greater powers to sanction than this minimum). 
 10. Sanctions are not appealable.
 
-[^1]: For the purposes of this document, UKQB tournament refers to a tournament hosted by UKQB, which includes British Novice events and BSQC.
+#### Cheating statement
+
+UKQB takes cheating at online tournaments very seriously, and we see it as completely equivalent to cheating at an in person tournament. To this end, we have put the following rules in place:
+
+1. All competitors must have a webcam and microphone to play in our events.
+2. The webcam must be orientated such that either the competitor’s face or on their hands are visible.
+3. Competitors should have one hand visible at all times unless there is a good reason they are unable to. Competitors should let the tournament director (TD) or the tournament safeguarding officer know why they are unable to fulfil this requirement. 
+4. Competitors should not be typing during live tossups or bonuses. 
+5. Competitors agree prior to the event taking place that UKQB reserves the right to record matches for any reason, which could be as part of, but not limited to, the prevention of cheating.
+
+The TD may at various points enter the virtual room. One purpose of this is to ensure that competitors are complying with the above rules and to ensure no wrongdoing is taking place.
+
+Competitors who believe another participant may be cheating are able to report such behaviour to the TD directly or via the [**cheating reporting form**]({{ site.url }}{{ site.baseurl }}/misconduct/).
+
+UKQB reserves the right to suspend or expel players from tournaments who are suspected of rule breaking. We also reserve the right to draw inferences based on statistical evidence, though this is unlikely to form the entire basis of any decision made by a UKQB TD or committee.
+
+After the tournament, any suspected wrongdoing will be referred to a committee, who will review the evidence available and determine any sanctions that may need to be enacted, which could include a ban from UKQB events for a stipulated amount of time. 
+
+[^1]: For the purposes of this document, UKQB tournament refers to a tournament hosted or co-hosted by UKQB, which includes British Novice events and BSQC.
