@@ -1,7 +1,7 @@
 ---
 layout: article
 permalink: /misconduct/
-title: "Misconduct report form"
+title: "Misconduct reporting form"
 author_profile: false
 share: true
 toc: true

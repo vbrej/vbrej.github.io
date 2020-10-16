@@ -9,7 +9,7 @@ toc: true
 
 As part of our commitment to safeguarding and fair play, UKQB events are run in accordance with the following code of conduct. The following forms can be used to report any violations of the code and the cheating statement:
 * <p style="font-size: 18px"><span style="font-weight: bold"><a href="https://quizbowl.co.uk/misconduct/">safeguarding reporting form</a></span></p>
-* <p style="font-size: 18px"><span style="font-weight: bold"><a href="https://quizbowl.co.uk/misconduct/">cheating reporting form</a></span></p>
+* <p style="font-size: 18px"><span style="font-weight: bold"><a href="https://quizbowl.co.uk/cheating/">cheating reporting form</a></span></p>
 
 {% include toc.html %}
 
@@ -42,7 +42,7 @@ UKQB takes cheating at online tournaments very seriously, and we see it as compl
 
 The TD may at various points enter the virtual room. One purpose of this is to ensure that competitors are complying with the above rules and to ensure no wrongdoing is taking place.
 
-Competitors who believe another participant may be cheating are able to report such behaviour to the TD directly or via the [**cheating reporting form**]({{ site.url }}{{ site.baseurl }}/misconduct/).
+Competitors who believe another participant may be cheating are able to report such behaviour to the TD directly or via the [**cheating reporting form**]({{ site.url }}{{ site.baseurl }}/cheating/).
 
 UKQB reserves the right to suspend or expel players from tournaments who are suspected of rule breaking. We also reserve the right to draw inferences based on statistical evidence, though this is unlikely to form the entire basis of any decision made by a UKQB TD or committee.
 
