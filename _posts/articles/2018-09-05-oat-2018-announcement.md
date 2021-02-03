@@ -10,7 +10,7 @@ image:
   teaser: oats-400x250.jpg
 ---
 
-*For more information about the tournament, please see the [Facebook event](https://www.facebook.com/events/232692214256410/). We will also be running a student mirror of this tournament in Edinburgh: more details are in the [announcement]({{ site.baseurl }}{% post_url 2018-09-10-emoat-2018-announcement %}).*
+*For more information about the tournament, please see the [Facebook event](https://www.facebook.com/events/232692214256410/). We will also be running a student mirror of this tournament in Edinburgh: more details are in the [announcement]({% post_url /articles/2018-09-10-emoat-2018-announcement %}).*
 
 Oxford University Quiz Society and UK Quizbowl are pleased to announce that the **Oxford Autumn Tournament (OAT)** will take place on 20<sup>th</sup> October. The exact location within Oxford is TBC. This will be the first tournament of the student UK quizbowl 2018-2019 season, so it would be good to have a large turnout! The maximum number of teams in the field is 15. We are limiting sign ups to two teams per university at the moment, but that may change at a future date. 
 
