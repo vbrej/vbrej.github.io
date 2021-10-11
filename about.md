@@ -107,7 +107,7 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
     </tr>
     <tr>
         <td>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/rout.jpg" alt="">
         </td>
         <td>
             <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member: </span>Andrew Rout</p><p style="font-size: 16px">Andrew Rout is an ordinary member on the UKQB committee. A maths PhD student who has been at Warwick for more years than he wishes to count, he chooses to describe his quizbowl experience as uncountable. His achievements outside quizbowl include a surprisingly successful run on <i>University Challenge</i>.</p>
@@ -115,7 +115,7 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
     </tr>
     <tr>
         <td>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/committee/blake.jpg" alt="">
         </td>
         <td>
             <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member: </span>Blake Robinson</p><p style="font-size: 16px">Blake is one of the newest members of UK Quizbowl, first taking part in the 2021 Winter Novice with the University of Huddersfield, where he is currently studying an MMus in Classical Music Performance as a first study tuba player. One of his goals on the committee is to encourage quizbowl to students of the creative arts, as well as new institutions. When he isn't quizzing in tournaments or down the pub three days a week winning bar tabs, he is a keen composer and performer, currently playing Eb Bass for Yorkshire Imperial Brass Band.</p>
