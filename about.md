@@ -46,7 +46,7 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
     		<img src="{{ site.url }}{{ site.baseurl }}/images/committee/solenne.jpg" alt="">
     	</td>
     	<td>
-    		<p style="font-size: 18px"><span style="font-weight: bold">Secretary: </span>Solenne Scholefield</p><p style="font-size: 16px">Solenne Scholefield is the secretary of UKQB, as well as being the president of Oxford University Quiz Society. She was part of the Balliol College, Oxford team who made the semi finals of <i>University Challenge</i> in the 2020--21 season and in the process became a 'noted science player'. She can be found convincing people that everything is actually classics and reading far too much Borges, as well as attending tournaments to try and buzz on literature.</p>
+    		<p style="font-size: 18px"><span style="font-weight: bold">Secretary: </span>Solenne Scholefield</p><p style="font-size: 16px">Solenne Scholefield is the secretary of UKQB, as well as being the president of Oxford University Quiz Society. She was part of the Balliol College, Oxford team who made the semi finals of <i>University Challenge</i> in the 2020–21 season and in the process became a 'noted science player'. She can be found convincing people that everything is actually classics and reading far too much Borges, as well as attending tournaments to try and buzz on literature.</p>
     	</td>
     </tr>
     <tr>
@@ -62,7 +62,7 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
             <img src="{{ site.url }}{{ site.baseurl }}/images/committee/felix.jpg" alt="">
         </td>
         <td>
-            <p style="font-size: 18px"><span style="font-weight: bold">Blog Manager: </span>Felix Swift Roberts</p><p style="font-size: 16px">Felix Swift Roberts is the blog editor for the UK Quizbowl site, alongside being the secretary and Anna-Wintour-in-chief of the Imperial College Quiz Society. He's in his 4<sup>th</sup> year of an integrated Masters in Theoretical Physics, but this is largely unreflected in his main buzzer specialties of Marquez, Faulkner, Milton, and the three South Korean films he's actually watched; when not procrastinating with quiz, he can be found rollerskiing.</p>
+            <p style="font-size: 18px"><span style="font-weight: bold">Blog Manager: </span>Felix Swift Roberts</p><p style="font-size: 16px">Felix Swift Roberts is the blog editor for the UK Quizbowl site, alongside being the secretary and Anna-Wintour-in-chief of the Imperial College Quiz Society. He's in his fourth year of an integrated masters in Theoretical Physics, but this is largely unreflected in his main buzzer specialties of Marquez, Faulkner, Milton, and the three South Korean films he's actually watched; when not procrastinating with quiz, he can be found rollerskiing.</p>
         </td>
     </tr>
     <tr>
@@ -118,7 +118,7 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
             <img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
         </td>
         <td>
-            <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member: </span>Blake Robinson</p><p style="font-size: 16px">Blake is one of the newest members of UK Quizbowl, first taking part in the 2021 Winter Novice with the University of Huddersfield, where he is currently studying an MMus in Classical Music Performance as a first study Tuba player. One of his goals on the committee is to encourage Quizbowl to students of the creative arts, as well as new institutions. When he isn't quizzing in tournaments or down the pub three days a week winning bar tabs, he is a keen composer and performer, currently playing Eb Bass for Yorkshire Imperial Brass Band.</p>
+            <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member: </span>Blake Robinson</p><p style="font-size: 16px">Blake is one of the newest members of UK Quizbowl, first taking part in the 2021 Winter Novice with the University of Huddersfield, where he is currently studying an MMus in Classical Music Performance as a first study tuba player. One of his goals on the committee is to encourage quizbowl to students of the creative arts, as well as new institutions. When he isn't quizzing in tournaments or down the pub three days a week winning bar tabs, he is a keen composer and performer, currently playing Eb Bass for Yorkshire Imperial Brass Band.</p>
         </td>
     </tr>
     <tr>
@@ -142,7 +142,7 @@ One thing to point out: UK Quizbowl is currently just starting out, so more mate
             <img src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
         </td>
         <td>
-            <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member: </span>Matthew Toynbee</p><p style="font-size: 16px">Matthew is a recent Durham maths graduate, having completed his MMath in 2020. While at university, he captained Durham's 2018--19 <i>University Challenge</i> team to the semi-finals, and was President of the Quiz Society in 2019-20. Nowadays he's more often found modding than playing, but he does enjoy the occasional questions on maths, classical music or British geography. Outside of quiz, he can be found playing the viola in orchestras, or learning to play bridge.</p>
+            <p style="font-size: 18px"><span style="font-weight: bold">Ordinary Member: </span>Matthew Toynbee</p><p style="font-size: 16px">Matthew is a recent Durham maths graduate, having completed his MMath in 2020. While at university, he captained Durham's 2018–19 <i>University Challenge</i> team to the semi-finals, and was President of the Quiz Society in 2019–20. Nowadays he's more often found modding than playing, but he does enjoy the occasional questions on maths, classical music or British geography. Outside of quiz, he can be found playing the viola in orchestras, or learning to play bridge.</p>
         </td>
     </tr>
     <tr>
