@@ -9,7 +9,7 @@ image:
   teaser: bsqc-quals-2-400x250.jpg
 ---
 
-In the 2021–22 season, teams would still need to qualify to play in the British Student Quiz Championships (BSQC). The qualification rules have been adjusted and clarified, so we invite all interested players to read them carefully. The list of qualifying event will be finalised and publicised shortly — please follow our [Facebook page](https://www.facebook.com/quizbowluk) for up to date information.
+In the 2021–22 season, teams would still need to qualify to play in the British Student Quiz Championships (BSQC). The qualification rules have been adjusted and clarified, so we invite all interested players to read them carefully. The list of qualifying events will be finalised and publicised shortly — please follow our [Facebook page](https://www.facebook.com/quizbowluk) for up to date information.
 
 #### BSQC Qualifying Rules
 
