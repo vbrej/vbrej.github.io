@@ -91,7 +91,7 @@ UK Quizbowl is also very keen to help interested students start playing quizbowl
     </tr>
     <tr>
         <td>
-            <img height="200" src="{{ site.url }}{{ site.baseurl }}/images/committee/blank.jpg" alt="">
+            <img height="200" src="{{ site.url }}{{ site.baseurl }}/images/committee/ben.jpg" alt="">
         </td>
         <td>
             <p style="font-size: 18px"><span style="font-weight: bold">Safeguarding Officer: </span>Ben Russell Jones</p><p style="font-size: 16px">Hailing from South Wales, Ben Russell Jones is a third-year student at Edinburgh University studying philosophy and politics, where he tries perpetually to get his head around very easy concepts that come naturally to laymen. When not attempting to read most of the books in the quizbowl canon that seem interesting to him, he can often be found watching reruns of <i>The Thick of It</i>, and getting smashed down the ground for six playing for Blackwood Town Cricket Club.</p>
