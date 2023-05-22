@@ -34,7 +34,6 @@ This site is also useful when writing questions, either to check what difficulty
 
 [**NAQT You Gotta Know**](https://www.naqt.com/you-gotta-know/): NAQT is an American company which produces a lot of quizbowl questions. One of the best features on their website are these short guides which go through and explain lists of topics which come up frequently in quizbowl tournaments.
 
-
 ## Online quizbowl
 
 [**Protobowl**](http://protobowl.com): Protobowl is the main site for playing multiplayer quizbowl online. There are a variety of rooms, ranging from middle-school questions up to specialist public rooms, in which one can play against quizzers worldwide in real time; alternatively, one can easily set up a private room, either in order to hone your skills individually or to play with, say, other members from your society.
@@ -48,3 +47,7 @@ This site is also useful when writing questions, either to check what difficulty
 [**HSQuizbowl Stats**](http://hsquizbowl.org/db/): After almost all tournaments, the stats from the day will be posted on this site. The main results page will give the main leaderboard of the teams, though in other sections one can view an individual player’s performance or broken-down details for a whole team. Some of the numbers can be a bit difficult to get one’s head around – the key individual one is usually said to be PPG, or ‘(average) points per game’, counting only tossups. As a team, the ‘PPB’, or ‘(average) points per bonus’, is often the most highly regarded. Of course, worrying about this kind of thing is really nowhere near necessary. 
 
 [**HDWhite**](http://hdwhite.org/qb/stats/): This is a tool which allows you to search through the database of stats to find results for particular names of teams. 
+
+## Tournament hosting guide
+
+We have put together a list of things to keep in mind for prospective UKQB tournament hosts – you can find it here [**here**]({{ site.url }}{{ site.baseurl }}/checklist/).
