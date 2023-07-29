@@ -16,7 +16,7 @@ We help run a series of quizbowl tournaments throughout the year, which range fr
 
 UK Quizbowl is also very keen to help interested students start playing quizbowl for the first time. You will find several resources on this website, including links to past questions and advice on how to study by current top players, and we also have a student discord and a UK-wide discord server. If you are interested in setting up a quiz society at your university but do not know where to start or just want to know more about upcoming tournaments, please feel free to email us at <contact@quizbowl.co.uk> or get in touch via the [Facebook page](https://www.facebook.com/quizbowluk).
 
-> <cite>Michael Kohn, *President of UK Quizbowl in 2022–23 season*</cite>
+> <cite>Michael Kohn, *President of UK Quizbowl in 2023–24 season*</cite>
 
 <br>
 
